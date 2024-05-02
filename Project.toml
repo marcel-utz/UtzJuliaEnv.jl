@@ -1,0 +1,13 @@
+[deps]
+BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+LightXML = "9c8b4983-aa76-5018-a973-4c85ecc9e179"
+MLUtils = "f1d291b0-491e-4a28-83b9-f70985020b54"
+NMR = "29608d60-07d6-11ea-0b49-239cc88e4b20"
+OneHotArrays = "0b1bfda6-eb8a-41d2-88d8-f5af5cad476f"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+cuDNN = "02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd"
